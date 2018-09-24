@@ -1,4 +1,4 @@
-# Cisco-Python-Project
+# Router-Observer
 The point of it was to create automatically documentation to the topology(topology.png) and gain specific information(listed below). Script was tested on Debian 7 and was written in Python 2.6.
 In range.txt and password.txt are stored credential to devices inside tested network(loggin via SSH, so make sure you enabling it), only one pair of credential works for each device.
 
